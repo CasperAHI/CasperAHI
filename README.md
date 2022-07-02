@@ -1,13 +1,9 @@
 <h1 align="center">Hi 👋, I'm Casper</h1>
 <h3 align="center">A backend developer with just a splash of frontend.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=casperahi&label=Profile%20views&color=0e75b6&style=flat" alt="casperahi" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=casperahi" alt="casperahi" /></a> </p>
-
 - 💬 Ask me about **Ruby on rails, Haskell, Erlang, Python.**
 
-- 📫 How to reach me **kohaku_96@hotmail.com**
+- 📫 How to reach me **https://www.linkedin.com/in/casper-h-iversen-716985190/**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/casper-h-iversen-716985190/overlay/1635495508624/single-media-viewer/](https://www.linkedin.com/in/casper-h-iversen-716985190/overlay/1635495508624/single-media-viewer/)
 
