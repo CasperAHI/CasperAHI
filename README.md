@@ -19,4 +19,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=casperahi&show_icons=true&locale=en&theme=radical&count_private=true" alt="casperahi" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=casperahi&" alt="casperahi" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=casperahi&theme=radical&count_private=true" alt="casperahi" /></p>
